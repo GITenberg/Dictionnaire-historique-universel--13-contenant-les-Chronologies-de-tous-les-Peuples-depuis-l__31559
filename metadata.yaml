@@ -9,6 +9,8 @@ creator:
     gutenberg_agent_id: '35328'
     url: http://www.gutenberg.org/2009/agents/35328
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/31559#Dictionnaire-historique-universel--13-contenant-les-Chronologies-de-tous-les-Peuples-depuis-l_
 gutenberg_bookshelf: FR Histoire
 gutenberg_issued: '2010-03-08'
 gutenberg_type: Text
